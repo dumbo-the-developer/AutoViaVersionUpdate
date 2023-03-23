@@ -1,3 +1,4 @@
 name: AutoUpdate
 version: '${project.version}'
 main: me.adarsh.autoupdate.AutoUpdate
+author: [ Adarsh ]
